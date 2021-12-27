@@ -1,20 +1,68 @@
-<mxfile host="app.diagrams.net" modified="2021-12-27T20:00:08.732Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="PWcKD8RNMGqwKS13ui_7" version="16.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-27T20:13:28.480Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="Xsf3ImTUrrAr48DkZPb5" version="16.1.0" type="github">
   <diagram id="0GFHgeSLJNTww1OlbtUn" name="Page-1">
-    <mxGraphModel dx="1011" dy="698" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1861" dy="698" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="IawtoKGAq2CpYDI2ZHL3-1" value="Ads Server" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="230" width="120" height="60" as="geometry" />
+          <mxGeometry x="120" y="560" width="453" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IawtoKGAq2CpYDI2ZHL3-2" value="DSP" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="230" width="120" height="60" as="geometry" />
+          <mxGeometry x="120" y="260" width="453" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IawtoKGAq2CpYDI2ZHL3-3" value="SSP" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="380" width="120" height="60" as="geometry" />
+          <mxGeometry x="120" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IawtoKGAq2CpYDI2ZHL3-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IawtoKGAq2CpYDI2ZHL3-4" target="IawtoKGAq2CpYDI2ZHL3-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IawtoKGAq2CpYDI2ZHL3-4" value="DMP" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="380" width="120" height="60" as="geometry" />
+          <mxGeometry x="286.5" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IawtoKGAq2CpYDI2ZHL3-5" value="Programmable Advertising Ecosystem" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="461" width="453" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IawtoKGAq2CpYDI2ZHL3-6" value="Ad Exchange" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IawtoKGAq2CpYDI2ZHL3-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IawtoKGAq2CpYDI2ZHL3-7" target="IawtoKGAq2CpYDI2ZHL3-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IawtoKGAq2CpYDI2ZHL3-7" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="331.5" y="150" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IawtoKGAq2CpYDI2ZHL3-8" value="Advertiser" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="165" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IawtoKGAq2CpYDI2ZHL3-11" value="&lt;h2 id=&quot;header_1&quot; style=&quot;box-sizing: border-box ; margin: 1.5em 0px 1em ; font-weight: 500 ; line-height: 1.2 ; font-size: 32px ; color: rgb(77 , 78 , 98) ; font-family: &amp;#34;geomanist&amp;#34; ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;span style=&quot;box-sizing: border-box ; font-weight: bolder&quot;&gt;DSP&lt;/span&gt;&lt;/h2&gt;&lt;div&gt;&lt;span style=&quot;box-sizing: border-box ; font-weight: bolder&quot;&gt;&lt;p style=&quot;box-sizing: border-box ; margin-top: 0px ; margin-bottom: 1em ; color: rgb(77 , 78 , 98) ; font-family: &amp;#34;geomanist&amp;#34; ; font-size: 17px ; font-weight: 400 ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;span style=&quot;box-sizing: border-box ; font-weight: bolder&quot;&gt;Features provided by DSPs to advertisers include the ability to&lt;/span&gt;:&lt;/p&gt;&lt;ul style=&quot;box-sizing: border-box ; margin: 0px 0px 1rem ; padding: 0px 0px 0px 1.5rem ; color: rgb(77 , 78 , 98) ; font-family: &amp;#34;geomanist&amp;#34; ; font-size: 17px ; font-weight: 400 ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;li style=&quot;box-sizing: border-box ; margin: 3px 0px&quot;&gt;Track ad performance&lt;/li&gt;&lt;li style=&quot;box-sizing: border-box ; margin: 3px 0px&quot;&gt;Perform real-time bidding&amp;nbsp;&lt;em style=&quot;box-sizing: border-box&quot;&gt;(RTB)&lt;/em&gt;&amp;nbsp;on publishers’ available ad inventory&lt;/li&gt;&lt;li style=&quot;box-sizing: border-box ; margin: 3px 0px&quot;&gt;Define target audiences&lt;/li&gt;&lt;li style=&quot;box-sizing: border-box ; margin: 3px 0px&quot;&gt;Control frequency capping&lt;/li&gt;&lt;li style=&quot;box-sizing: border-box ; margin: 3px 0px&quot;&gt;Establish ad campaign budgets&lt;/li&gt;&lt;li style=&quot;box-sizing: border-box ; margin: 3px 0px&quot;&gt;Access and purchase exclusive ad inventory from partners of the DSP service provider&lt;/li&gt;&lt;/ul&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-200" y="150" width="300" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="IawtoKGAq2CpYDI2ZHL3-15" value="&lt;h3 style=&quot;box-sizing: border-box ; margin: 1.5em 0px 1em ; font-weight: 500 ; line-height: 1.2 ; font-size: 24px ; color: rgb(77 , 78 , 98) ; font-family: &amp;#34;geomanist&amp;#34; ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;span style=&quot;box-sizing: border-box ; font-weight: bolder&quot;&gt;Ad Server vs DSP&lt;/span&gt;&lt;/h3&gt;&lt;h1&gt;&lt;p style=&quot;box-sizing: border-box ; margin-top: 0px ; margin-bottom: 1em ; color: rgb(77 , 78 , 98) ; font-family: &amp;#34;geomanist&amp;#34; ; font-size: 17px ; font-weight: 400 ; background-color: rgb(255 , 255 , 255)&quot;&gt;&amp;nbsp;M&lt;span style=&quot;box-sizing: border-box ; font-weight: bolder&quot;&gt;any DSPs come bundled together with ad servers – making it&amp;nbsp;&lt;em style=&quot;box-sizing: border-box&quot;&gt;seem&lt;/em&gt;&amp;nbsp;like DSPs perform the same actions of both technologies.&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;box-sizing: border-box ; margin-top: 0px ; margin-bottom: 1em ; color: rgb(77 , 78 , 98) ; font-family: &amp;#34;geomanist&amp;#34; ; font-size: 17px ; font-weight: 400 ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;span style=&quot;box-sizing: border-box ; font-weight: bolder&quot;&gt;However, this is not the case:&lt;/span&gt;&lt;/p&gt;&lt;ul style=&quot;box-sizing: border-box ; margin: 0px 0px 1rem ; padding: 0px 0px 0px 1.5rem ; color: rgb(77 , 78 , 98) ; font-family: &amp;#34;geomanist&amp;#34; ; font-size: 17px ; font-weight: 400 ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;li style=&quot;box-sizing: border-box ; margin: 3px 0px&quot;&gt;An ad server does not allow advertisers to connect to the programmatic ecosystem.&lt;/li&gt;&lt;li style=&quot;box-sizing: border-box ; margin: 3px 0px&quot;&gt;A DSP cannot store ad creative files and serve ads to a website without the functionalities offered by an ad server.&lt;/li&gt;&lt;li style=&quot;box-sizing: border-box ; margin: 3px 0px&quot;&gt;One of the few capabilities shared by both ad servers and DSPs is their ability to report on ad performance – a feature which is handled based on the selected service provider(s).&lt;/li&gt;&lt;/ul&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="610" y="160" width="230" height="590" as="geometry" />
+        </mxCell>
+        <mxCell id="IawtoKGAq2CpYDI2ZHL3-18" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="IawtoKGAq2CpYDI2ZHL3-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="180" y="320" as="sourcePoint" />
+            <mxPoint x="230" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IawtoKGAq2CpYDI2ZHL3-19" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="181" y="421" as="sourcePoint" />
+            <mxPoint x="181" y="461" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IawtoKGAq2CpYDI2ZHL3-20" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="321" as="sourcePoint" />
+            <mxPoint x="510" y="361" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IawtoKGAq2CpYDI2ZHL3-21" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="511" y="422" as="sourcePoint" />
+            <mxPoint x="511" y="462" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
