@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-27T20:24:42.629Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="XUSurO5p38sC_JatS1ap" version="16.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-27T20:33:28.627Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="-VvrpIDwoibp6iBcy8Ab" version="16.1.0" type="github">
   <diagram id="0GFHgeSLJNTww1OlbtUn" name="Page-1">
     <mxGraphModel dx="1861" dy="698" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -10,11 +10,20 @@
         <mxCell id="IawtoKGAq2CpYDI2ZHL3-2" value="DSP" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="260" width="453" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="IawtoKGAq2CpYDI2ZHL3-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IawtoKGAq2CpYDI2ZHL3-3" target="IawtoKGAq2CpYDI2ZHL3-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="IawtoKGAq2CpYDI2ZHL3-3" value="SSP" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="350" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IawtoKGAq2CpYDI2ZHL3-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IawtoKGAq2CpYDI2ZHL3-4" target="IawtoKGAq2CpYDI2ZHL3-2">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IawtoKGAq2CpYDI2ZHL3-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="367.5" y="410" as="sourcePoint" />
+            <mxPoint x="367.5" y="510" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="IawtoKGAq2CpYDI2ZHL3-4" value="DMP" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="286.5" y="350" width="120" height="60" as="geometry" />
@@ -86,6 +95,9 @@
             <mxPoint x="513" y="321" as="sourcePoint" />
             <mxPoint x="513" y="351" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="IawtoKGAq2CpYDI2ZHL3-31" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;color: rgb(77 , 78 , 98) ; font-family: &amp;#34;geomanist&amp;#34; ; font-size: 17px ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;b&gt;DMP:Data Management Platform&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;color: rgb(77 , 78 , 98) ; font-family: &amp;#34;geomanist&amp;#34; ; font-size: 17px ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;color: rgb(77 , 78 , 98) ; font-family: &amp;#34;geomanist&amp;#34; ; font-size: 17px ; background-color: rgb(255 , 255 , 255)&quot;&gt;In the context of advertising, DMPs are&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;box-sizing: border-box ; font-weight: bolder ; color: rgb(77 , 78 , 98) ; font-family: &amp;#34;geomanist&amp;#34; ; font-size: 17px ; background-color: rgb(255 , 255 , 255)&quot;&gt;used by both publishers and advertisers. &lt;/span&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255) ; color: rgb(77 , 78 , 98) ; font-family: &amp;#34;geomanist&amp;#34; ; font-size: 17px&quot;&gt;DMPs&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255) ; color: rgb(77 , 78 , 98) ; font-family: &amp;#34;geomanist&amp;#34; ; font-size: 17px ; box-sizing: border-box ; font-weight: bolder&quot;&gt;have relied primarily on third-party data in the form of cookies&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255) ; color: rgb(77 , 78 , 98) ; font-family: &amp;#34;geomanist&amp;#34; ; font-size: 17px&quot;&gt;&amp;nbsp;to provide enhanced ad targeting capabilities.&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;box-sizing: border-box ; font-weight: bolder ; color: rgb(77 , 78 , 98) ; font-family: &amp;#34;geomanist&amp;#34; ; font-size: 17px ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;box-sizing: border-box ; font-weight: bolder ; color: rgb(77 , 78 , 98) ; font-family: &amp;#34;geomanist&amp;#34; ; font-size: 17px ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-454" y="610" width="252" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
