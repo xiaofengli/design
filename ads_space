@@ -1,29 +1,29 @@
-<mxfile host="app.diagrams.net" modified="2021-12-27T20:13:28.480Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="Xsf3ImTUrrAr48DkZPb5" version="16.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-27T20:23:54.074Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="7sM4ku4FIKKNbwLE6mWN" version="16.1.0" type="github">
   <diagram id="0GFHgeSLJNTww1OlbtUn" name="Page-1">
     <mxGraphModel dx="1861" dy="698" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="IawtoKGAq2CpYDI2ZHL3-1" value="Ads Server" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="560" width="453" height="60" as="geometry" />
+          <mxGeometry x="120" y="620" width="453" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IawtoKGAq2CpYDI2ZHL3-2" value="DSP" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="260" width="453" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IawtoKGAq2CpYDI2ZHL3-3" value="SSP" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="360" width="120" height="60" as="geometry" />
+          <mxGeometry x="120" y="350" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IawtoKGAq2CpYDI2ZHL3-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IawtoKGAq2CpYDI2ZHL3-4" target="IawtoKGAq2CpYDI2ZHL3-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IawtoKGAq2CpYDI2ZHL3-4" value="DMP" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="286.5" y="360" width="120" height="60" as="geometry" />
+          <mxGeometry x="286.5" y="350" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IawtoKGAq2CpYDI2ZHL3-5" value="Programmable Advertising Ecosystem" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="461" width="453" height="60" as="geometry" />
+          <mxGeometry x="120" y="510" width="453" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IawtoKGAq2CpYDI2ZHL3-6" value="Ad Exchange" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="360" width="120" height="60" as="geometry" />
+          <mxGeometry x="453" y="350" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IawtoKGAq2CpYDI2ZHL3-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IawtoKGAq2CpYDI2ZHL3-7" target="IawtoKGAq2CpYDI2ZHL3-2">
           <mxGeometry relative="1" as="geometry" />
@@ -48,20 +48,38 @@
         </mxCell>
         <mxCell id="IawtoKGAq2CpYDI2ZHL3-19" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="181" y="421" as="sourcePoint" />
-            <mxPoint x="181" y="461" as="targetPoint" />
+            <mxPoint x="179.5" y="410" as="sourcePoint" />
+            <mxPoint x="179.5" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IawtoKGAq2CpYDI2ZHL3-20" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="IawtoKGAq2CpYDI2ZHL3-21" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="IawtoKGAq2CpYDI2ZHL3-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="510" y="321" as="sourcePoint" />
-            <mxPoint x="510" y="361" as="targetPoint" />
+            <mxPoint x="511" y="470" as="sourcePoint" />
+            <mxPoint x="511" y="510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IawtoKGAq2CpYDI2ZHL3-21" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="IawtoKGAq2CpYDI2ZHL3-22" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="IawtoKGAq2CpYDI2ZHL3-5" target="IawtoKGAq2CpYDI2ZHL3-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="511" y="422" as="sourcePoint" />
-            <mxPoint x="511" y="462" as="targetPoint" />
+            <mxPoint x="180" y="470" as="sourcePoint" />
+            <mxPoint x="230" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IawtoKGAq2CpYDI2ZHL3-24" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;b style=&quot;color: rgb(77 , 78 , 98) ; font-family: &amp;#34;geomanist&amp;#34; ; font-size: 17px&quot;&gt;DSP: Demand Side Platform&lt;/b&gt;&lt;/div&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;font color=&quot;#4d4e62&quot; face=&quot;geomanist&quot;&gt;&lt;span style=&quot;font-size: 17px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(77 , 78 , 98) ; font-family: &amp;#34;geomanist&amp;#34; ; font-size: 17px ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;div style=&quot;text-align: left&quot;&gt;A DSP serves as an interface for advertisers to connect to the programmatic advertising ecosystem – and to manage how they purchase advertising media from that ecosystem.&lt;/div&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-540" y="180" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IawtoKGAq2CpYDI2ZHL3-25" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;b style=&quot;color: rgb(77 , 78 , 98) ; font-family: &amp;#34;geomanist&amp;#34; ; font-size: 17px&quot;&gt;SSP: Supply Side Platform&lt;/b&gt;&lt;/div&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;font color=&quot;#4d4e62&quot; face=&quot;geomanist&quot;&gt;&lt;span style=&quot;font-size: 17px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(77 , 78 , 98) ; font-family: &amp;#34;geomanist&amp;#34; ; font-size: 17px ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;div style=&quot;text-align: left&quot;&gt;An SSP serves as an interface for publishers to connect to the programmatic advertising ecosystem – and to manage how they sell their ad inventory through that ecosystem.&lt;/div&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-540" y="390" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IawtoKGAq2CpYDI2ZHL3-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IawtoKGAq2CpYDI2ZHL3-26" target="IawtoKGAq2CpYDI2ZHL3-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IawtoKGAq2CpYDI2ZHL3-26" value="Ad Network" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="450" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IawtoKGAq2CpYDI2ZHL3-27" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="513" y="321" as="sourcePoint" />
+            <mxPoint x="513" y="351" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
